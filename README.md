@@ -1,4 +1,4 @@
 
 # POO
-ola!
+Repositório para disciplina de Programação para Design 
 
