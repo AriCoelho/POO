@@ -30,7 +30,7 @@ public class Tamagotchi{
       if(energia<=0){
          this.energia=0;
          this.vivo=false;
-         System.out.println("Morreu de fraqueza");
+         System.out.println("Morreu sem energia");
       }
       if(energia > energiaMax){
           energia=energiaMax;
