@@ -83,7 +83,7 @@ public class Tarifa {
         if (valor > 0){
             this.saldo += valor;
             addOperacao("Deposito", valor);
-            System.out.println("Seu saldo � de: " + saldo);
+            System.out.println("Seu saldo e de: " + saldo);
             return true; 
         } else{
             System.out.println("Deposito invalido");
@@ -95,7 +95,7 @@ public class Tarifa {
         if (valor > 0 && valor < saldo){
             this.saldo -= valor;
             addOperacao("Sacar", -valor);
-            System.out.println("Seu saldo � de: " + saldo);
+            System.out.println("Seu saldo e de: " + saldo);
             return true;
         } else{
             System.out.println("Saque invalido");
@@ -107,7 +107,7 @@ public class Tarifa {
         if(valor > 0 && valor < saldo){
             this.saldo -= valor;
             addOperacao("tarifas", -valor);
-            System.out.println("Seu saldo � de: " + saldo);
+            System.out.println("Seu saldo e de: " + saldo);
             return true;
         } else{
             System.out.println("Valor Invalido!");
