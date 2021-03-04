@@ -4,6 +4,6 @@
 
 3- Fizemos chamada pelo meet e usamos o live share..
 
-4- Aprendi sobre mapas
+4- Aprendi sobre mapas.
 
 5- Levamos umas 3 ou 4 horas para fazer por conta que revimos a aula de mapas juntos e tivemos que corrigir algumas coisas no codigo.
